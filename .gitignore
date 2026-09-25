@@ -1,0 +1,8 @@
+
+dist/
+tsconfig.tsbuildinfo
+
+dist/
+
+# Large demo videos
+public/demos/*.mp4

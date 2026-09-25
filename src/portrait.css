@@ -1,0 +1,2 @@
+/* Keep the portrait steady; only its decorative rings move. */
+.portrait { animation: none !important; }
